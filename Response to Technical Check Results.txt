@@ -1,0 +1,16 @@
+Dear EJOR,
+
+Please find our changes/corrections below to the manuscript in response to your technical check.
+
+Best regards,
+Rune M. Jensen, corresponding author.
+
+
+Please make changes/corrections as detailed in the comments below:
+
+ References
+Ensure they are in alphabetical order and that there are no missing, incomplete or inconsistent references
+>>> The references now appear in alphabetic order and all bibtex warnings have been removed (3 references without page numbers) 
+
+ KEYWORDS The first keyword in the manuscript should be the same as the keyword entered in the 'Section/Category' field in the EES submission system, (currently 'OR IN MARITIME PLANNING ').
+>>> Done, the 5 keywords are now: OR in Maritime Industry, Stowage Planning, Slot Planning, Matheuristics, and Large Neighbourhood Search. Obs. 'Section/Category' field in the EES submission system is "OR in Maritime Industry". 
